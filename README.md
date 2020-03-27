@@ -16,4 +16,4 @@ Esta máscara facial está diseñada para ser simple y de fácil armado, sólo s
 
 CAD STL V1 NO DISPONIBLE
 
-![CAD V1](/images/cad_1.png)
+![CAD V1](/images/1596.png)
