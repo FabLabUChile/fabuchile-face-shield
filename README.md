@@ -35,7 +35,7 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 ### Printer Settings 
 
-#### Part deployment on Cura
+#### Part deployment on Cura, slip fits upward
 
 ![asd2](/images/curaset.png "Part deployment on Cura")
 
