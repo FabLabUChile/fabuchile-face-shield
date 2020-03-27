@@ -31,6 +31,8 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 ### Printer Settings
 
+![Part deployment on Cura](/images/curaset.png)
+
 We used some Ender 3 and Ender 5 to make the prototype and Cura as slicer, no special settings:
 
 - Material: PLA
