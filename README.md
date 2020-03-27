@@ -1,4 +1,4 @@
-# FabUchile Escudo Facial
+# This is a work in progress
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -11,9 +11,8 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+# Resume
 
-Esta máscara facial está diseñada para ser simple y de fácil armado, sólo se arma con la pieza impresa en 3D, una hoja de mica tamaño carta sin modificar (220x280 mm) y un elástico cualquiera.
+Based on the Prusa Face Shield, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for easier assembly. This design consist in a single printed piece, a clear sheet and a rubber band.
 
-CAD STL V1 NO DISPONIBLE
-
-![CAD V1](/images/1596.png)
+![Prototype](/images/image1596.png)
