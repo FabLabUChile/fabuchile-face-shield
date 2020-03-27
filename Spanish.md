@@ -36,7 +36,7 @@ El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La
 
 ### Parámetros de impresión
 
-#### Disposición de la pieza en el software Cura
+#### Disposición de la pieza en el software Cura, con las pestañas de ajuste a presión hacia arriba
 
 ![asd2](/images/curaset.png "Disposición de la pieza en el software Cura")
 
