@@ -34,6 +34,8 @@ los procesos de sanitización que se llevarán a cabo.
 
 El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La banda interior rodea la cabeza, mientras que la externa sostiene la lámina transparente mediante ajustes a presión, distanciandola de la cara para dar espacio a lentes y antiparras, también para evitar el empañamiento de la lámina por la respiración. En sus puntas posee ganchos para adherir la banda elástica.
 
+Puedes bajar el archivo .STL desde [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+
 ### Parámetros de impresión
 
 #### Disposición de la pieza en el software Cura, con las pestañas de ajuste a presión hacia arriba
