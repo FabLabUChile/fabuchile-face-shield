@@ -21,17 +21,17 @@ Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prot
 
 ## Commercial Parts
 
-The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (220X280 mm), 0.2 mm thick, you can get some in almost any library or school supply store. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
+The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (220X280 mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
 
 ## Printed Headband
 
 We printed the headband in PLA, as is easier to print, available, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
-The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses of goggles. The ends of the headband have a hook to mount the rubber band.
+The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook to mount the rubber band.
 
 ### Printer Settings
 
-We used some Ender 3 and Ender 5 to make the prototype, no special settings:
+We used some Ender 3 and Ender 5 to make the prototype and Cura as slicer, no special settings:
 
 - Material: PLA
 - Extruder Temp: 200°C
@@ -45,10 +45,12 @@ The part must be handled with care, using clean gloves and mask to avoid contami
 
 # Assembly
 
-After printing and sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends.
+After printing and sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently.
 
 ![Slip Fits](/images/slipfits.png)
 
 
 # Usage
+
+Once the user is fully equiped with other protection measures, the inner band of the faceshield is put against the forehead, and then, the rubber band is pulled down to the back of the head.
 
