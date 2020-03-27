@@ -33,6 +33,8 @@ We printed the headband in PLA, as is easier to print, available, , compostable,
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook to mount the rubber band.
 
+You can get the .STL in [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+
 ### Printer Settings 
 
 #### Part deployment on Cura, slip fits upward
