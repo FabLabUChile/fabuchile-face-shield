@@ -29,7 +29,7 @@ The rubber band and the clear sheet are commercial parts. The sheet is a cellulo
 
 ## Printed Headband
 
-We printed the headband in PLA, as is easier to print, available, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
+We printed the headband in PLA, as is easier to print, available, , compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook to mount the rubber band.
 
