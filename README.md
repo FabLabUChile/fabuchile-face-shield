@@ -13,7 +13,7 @@ License][cc-by].
 
 # Resume
 
-Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask.
+Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between sanitations.
 
 ![Printed prototype](/images/image1596.png)
 
@@ -41,7 +41,10 @@ We used some Ender 3 and Ender 5 to make the prototype, no special settings:
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
+The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. Recent studies reveal than the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken. 
+
 # Assembly
+
 
 
 # Usage
