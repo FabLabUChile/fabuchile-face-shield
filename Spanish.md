@@ -29,12 +29,12 @@ La banda elástica y la mica son partes comerciales. La lámina de mica es tama�
 
 ## Cintillo impreso
 
+**PUEDES BAJAR EL ARCHIVO .STL DESDE** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+
 Imprimimos el cintillo en PLA, pues es más fácil de imprimir, tiene una baja huella de carbono, es compostable y es suficientemente resistente. Es factible utilizar otro filamento más resistente, como ABS o PETG, mientras sea compatible con 
 los procesos de sanitización que se llevarán a cabo.
 
 El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La banda interior rodea la cabeza, mientras que la externa sostiene la lámina transparente mediante ajustes a presión, distanciandola de la cara para dar espacio a lentes y antiparras, también para evitar el empañamiento de la lámina por la respiración. En sus puntas posee ganchos para adherir la banda elástica.
-
-**Puedes bajar el archivo .STL desde** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
 
 ### Parámetros de impresión
 
