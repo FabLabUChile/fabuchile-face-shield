@@ -29,7 +29,7 @@ The rubber band and the clear sheet are commercial parts. The sheet is a cellulo
 
 ## Printed Headband
 
-**YOU CAN GET THE .STL AT ** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+**YOU CAN GET THE .STL AT** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
 
 We printed the headband in PLA, as is easier to print, available, , compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
