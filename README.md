@@ -39,7 +39,7 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 ![asd2](/images/curaset.png "Part deployment on Cura")
 
-We used some Ender 3 and Ender 5 to make the prototype and Cura as slicer, no special settings:
+We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, no special settings:
 
 - Material: PLA
 - Extruder Temp: 200°C
@@ -53,7 +53,7 @@ The part must be handled with care, using clean gloves and mask to avoid contami
 
 # Assembly
 
-After printing and sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently.
+After printing and sanitation of the parts, introduce the sheet in the fits of the headband in the outer strip as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently. This is fundamental as otherwhise the user will be in danger of infection.
 
 #### Putting the sheet into the slip fits
 
