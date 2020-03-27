@@ -13,6 +13,11 @@ License][cc-by].
 
 # Resume
 
-Based on the Prusa Face Shield, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for easier assembly. This design consist in a single printed piece, a clear sheet and a rubber band.
+Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for direct assembly. This design consist in a single printed piece, a clear sheet and a rubber band.
 
-![Prototype](/images/image1596.png)
+![Printed prototype](/images/image1596.png)
+
+# Parts
+
+The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (220X280 mm), 0.5 mm thick, you can get some in almost any library or school supply store. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
+
