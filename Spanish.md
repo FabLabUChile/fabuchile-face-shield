@@ -42,8 +42,6 @@ El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La
 
 Usamos impresoras Ender 3 y Ender 5 para hacer el prototipo, y Cura como slicer, sin ningún parámetro espcial:
 
-We used some Ender 3 and Ender 5 printers to make the prototype and Cura as slicer, no special settings:
-
 - Material: PLA
 - Temperatura de extrusión: 200°C
 - Temperatura de cama: 60°C
