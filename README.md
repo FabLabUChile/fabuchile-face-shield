@@ -47,7 +47,7 @@ We used some Ender 3 and Ender 5 to make the prototype and Cura as slicer, no sp
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
-The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies reveal](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) than the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken. 
+The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken. 
 
 # Assembly
 
