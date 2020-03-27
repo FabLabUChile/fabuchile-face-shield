@@ -17,7 +17,7 @@ Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prot
 
 #### Printed prototype
 
-![asd1](/images/image1596.png "Prototype")
+![asd1](/images/prototyp.png "Prototype")
 
 # Parts
 
@@ -57,7 +57,7 @@ After printing and sanitation of the parts, introduce the sheet in the fits of t
 
 #### Putting the sheet into the slip fits
 
-![asd3](/images/slipfits.png "Slip fits")
+animagesoon
 
 
 # Usage
