@@ -45,7 +45,9 @@ The part must be handled with care, using clean gloves and mask to avoid contami
 
 # Assembly
 
-After sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends.
+After printing and sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends.
+
+![Slip Fits](/images/slipfits.png)
 
 
 # Usage
