@@ -15,7 +15,7 @@ License][cc-by].
 
 Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any process on the parts, decreasing the chance of contamination during the fabrication process and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between sanitations.
 
-![Printed prototype](/images/image1596.png)
+![Printed prototype](/images/image1596.png "Prototype")
 
 # Parts
 
@@ -29,9 +29,9 @@ We printed the headband in PLA, as is easier to print, available, has a low carb
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook to mount the rubber band.
 
-### Printer Settings
+### Printer Settings 
 
-![Part deployment on Cura](/images/curaset.png)
+![Part deployment on Cura](/images/curaset.png "Part deployment on Cura")
 
 We used some Ender 3 and Ender 5 to make the prototype and Cura as slicer, no special settings:
 
@@ -49,7 +49,7 @@ The part must be handled with care, using clean gloves and mask to avoid contami
 
 After printing and sanitation of the parts, introduce the sheet in the fits of the headband as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently.
 
-![Slip Fits](/images/slipfits.png)
+![Slip Fits](/images/slipfits.png "Slip fits")
 
 
 # Usage
