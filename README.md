@@ -23,12 +23,12 @@ Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prot
 
 The device consists of three components:
 * 3D printed headband
-* Clear cellulose acetate sheet (letter (216x279mm) or legal size (216x356mm))
+* Clear cellulose acetate (mica) sheet (letter (216x279mm) or legal size (216x356mm))
 * Rubber band 
 
 ## 3D Printed Headband
 
-**YOU CAN GET THE .STL AT** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) and [GrabCad](https://grabcad.com/library/covid-face-shield-2).
 
 We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
@@ -44,7 +44,7 @@ The rubber band and the clear sheet are commercial parts. The sheet is a cellulo
 
 ![asd2](/images/curaset.png "Part deployment on Cura")
 
-We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, no special settings:
+We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
 
 - Material: PLA
 - Extruder Temp: 200°C
@@ -54,11 +54,13 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
-The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken.
-
 # Sterilization and safety recommendations
 
+During all the proccess, the components must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken.
 
+For sterilization at home, the [recommendations](https://www.minsal.cl/wp-content/uploads/2020/03/PROTOCOLO-DE-LIMPIEZA-Y-DESINFECCIÓN-DE-AMBIENTES-COVID-19.pdf) of ECDC are cleaning with 0,1% sodium hypoclorite (dilution 1:50 if household bleach at an initial concentration of 5% is used, 20mL in a 1L of water). *This is currently being verified by professionals*.
+
+You can take a look on [this list](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) for products that meet EPA’s criteria for use against SARS-CoV-2.
 
 # Assembly
 
