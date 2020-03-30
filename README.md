@@ -21,19 +21,22 @@ Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prot
 
 # Parts
 
-The device consists of three components: A 3D printed headband, a clear cellulose acetate sheet and a rubber band.
+The device consists of three components:
+* 3D printed headband
+* Clear cellulose acetate sheet (letter (216x279mm) or legal size (216x356mm))
+* Rubber band 
 
-## Commercial Parts
-
-The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (220X280 mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
-
-## Printed Headband
+## 3D Printed Headband
 
 **YOU CAN GET THE .STL AT** [GrabCad](https://grabcad.com/library/covid-face-shield-2).
 
-We printed the headband in PLA, as is easier to print, available, , compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
+We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
-The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook to mount the rubber band.
+The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band.
+
+## Commercial Parts
+
+The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (216X356 mm) or legal size (216x356mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
 
 ### Printer Settings 
 
@@ -51,7 +54,11 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
-The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken. 
+The part must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken.
+
+# Sterilization and safety recommendations
+
+
 
 # Assembly
 
