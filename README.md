@@ -58,9 +58,11 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
 You can also print two or more headbands at a time, depending on the size of your printer bed.
+
 ![two headbands printed](/images/curatwoheadbands.png "Two headbands deployment on Cura")
 
 The only problem you may have with the printed part are the slip fits for supporting the clear sheet. It's optimized for 0.4 mm nozzle.
+
 ![difficult part](/images/cura2.png)
 
 ## Commercial Parts
