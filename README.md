@@ -17,7 +17,7 @@ Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-prot
 
 #### Printed prototype
 
-![asd1](/images/prototyp.png "Prototype")
+![first prototype](/images/prototyp.png "Prototype")
 
 # Parts
 
@@ -28,21 +28,24 @@ The device consists of three components:
 
 ## 3D Printed Headband
 
-**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) and [GrabCad](https://grabcad.com/library/covid-face-shield-2).
+**YOU CAN GET THE .STL** at Thingiverse or Grabcad (STEP). Please check the version list, *this is a work in progress*.
+
+Version | Thingiverse | GrabCad | Release date 
+------- | ----------- | ------- | ------------ 
+V1.9  | [v1.9](https://www.thingiverse.com/thing:4250678) | [v1.9](https://grabcad.com/library/covid-face-shield-v2-1) |   30-03   |     
+V2.0  | [v2.0](https://www.thingiverse.com/thing:4250678) |  [v2.0](https://grabcad.com/library/covid-face-shield-v2-1)  |   31-03     
+
 
 We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
-The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band.
+The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band, or another subjection device.
 
-## Commercial Parts
-
-The rubber band and the clear sheet are commercial parts. The sheet is a cellulose acetate clear sheet, letter size (216X356 mm) or legal size (216x356mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://envato-shoebox-0.imgix.net/6ef5/6284-fc6f-11e2-9f2a-842b2b692e1a/Dollar+bills+tied+with+a+rubber+band.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=1d7993257e4dcf2818c1a83303ead3cc).
 
 ### Printer Settings 
 
 #### Part deployment on Cura, slip fits upward
 
-![asd2](/images/curaset.png "Part deployment on Cura")
+![faceshield in cura](/images/cura1.png "Part deployment on Cura")
 
 We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
 
@@ -54,9 +57,29 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
+You can also print two or more headbands at a time, depending on the size of your printer bed.
+![two headbands printed](/images/curatwoheadbands.png "Two headbands deployment on Cura")
+
+The only problem you may have with the printed part are the slip fits for supporting the clear sheet. It's optimized for 0.4 mm nozzle.
+![difficult part](/images/cura2.png)
+
+## Commercial Parts
+
+### Clear plastic sheet
+
+The sheet is a cellulose acetate clear sheet, letter size (216X356 mm) or legal size (216x356mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
+
+
+### Rubber band
+
+You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://www.aliexpress.com/i/32900926065.html).
+
+![rubber bands](/images/rubberbands.jpg)
+
+
 # Sterilization and safety recommendations
 
-During all the proccess, the components must be handled with care, using clean gloves and mask to avoid contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored three or four days before delivery, unless the proper hygiene and sanitation protocols are being taken.
+During all the proccess, the components must be handled as if you were infected with Covid-19 virus, in a clean environment using clean gloves and mask to avoid cross contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored **three or four days** before delivery, unless the proper hygiene and sanitation protocols are being taken.
 
 For sterilization at home, the [recommendations](https://www.minsal.cl/wp-content/uploads/2020/03/PROTOCOLO-DE-LIMPIEZA-Y-DESINFECCIÓN-DE-AMBIENTES-COVID-19.pdf) of ECDC are cleaning with 0,1% sodium hypoclorite (dilution 1:50 if household bleach at an initial concentration of 5% is used, 20mL in a 1L of water). *This is currently being verified by professionals*.
 
@@ -66,10 +89,22 @@ You can take a look on [this list](https://www.epa.gov/pesticide-registration/li
 
 After printing and sanitation of the parts, introduce the sheet in the fits of the headband in the outer strip as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently. This is fundamental as otherwhise the user will be in danger of infection.
 
-#### Putting the sheet into the slip fits
+#### 1. Put one corner of the sheet into one lateral fit
+![assembly1](/images/1.JPG "Slip the corner of the sheet into the place")
 
-animagesoon
+#### 2. Put the middle of the sheet in the frontal fit
 
+![assembly1](/images/2.JPG)
+
+#### 3. Put the other corner of the sheet into the other lateral fit
+
+![assembly2](/images/3.JPG)
+
+#### 4. Hook the ruber band in the headband ends
+
+![assembly3](/images/4.JPG)
+
+![assembly4](/images/5.JPG)
 
 # Usage
 
