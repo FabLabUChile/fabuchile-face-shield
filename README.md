@@ -1,5 +1,7 @@
 # Fablab U Chile Face Shield / This is a work in progress
 
+Versión en español [acá](/LEEME.md)
+
 ### Table of contents
 - [Fablab U Chile Face Shield / This is a work in progress](#fablab-u-chile-face-shield---this-is-a-work-in-progress)
     + [Table of contents](#table-of-contents)
