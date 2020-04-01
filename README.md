@@ -1,7 +1,22 @@
 # Fablab U Chile Face Shield / This is a work in progress
 
 ### Table of contents
-[TOC]
+- [Fablab U Chile Face Shield / This is a work in progress](#fablab-u-chile-face-shield---this-is-a-work-in-progress)
+    + [Table of contents](#table-of-contents)
+  * [Resume](#resume)
+  * [Parts](#parts)
+    + [3D Printed Headband](#3d-printed-headband)
+      - [Printer Settings](#printer-settings)
+    + [Commercial Parts](#commercial-parts)
+      - [Clear plastic sheet](#clear-plastic-sheet)
+      - [Rubber band](#rubber-band)
+  * [Assembly](#assembly)
+  * [Usage](#usage)
+  * [Sterilization and safety recommendations](#sterilization-and-safety-recommendations)
+  * [Join the community](#join-the-community)
+  * [License](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Resume
@@ -19,16 +34,17 @@ v1
 The device consists of three components:
 * 3D printed headband
 * Clear cellulose acetate (mica) sheet (letter (216x279mm) or legal size (216x356mm))
-* Rubber band 
+* Rubber band
 
 ### 3D Printed Headband
 
-**YOU CAN GET THE .STL** at Thingiverse or Grabcad (STEP). Please check the version list, *this is a work in progress*.
+**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-v2-1) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
 
-Version | File Name | Thingiverse | GrabCad | Release date 
-------- | --------- | ----------- | ------- | ------------ 
-V2.0  | faceshield_fablab_uch_v2.stl | [link](https://www.thingiverse.com/thing:4250678) |  [link](https://grabcad.com/library/covid-face-shield-v2-1)  |   31-03     
-V1.0  | FaceShield_FabLab_UCH.stl | [link](https://www.thingiverse.com/thing:4250678) | [link](https://grabcad.com/library/covid-face-shield-2) |   30-03   |     
+Version | File Name                     | Release date
+------- | ---------------------------   | ------------
+V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
+V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
+
 We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band, or another subjection device.
