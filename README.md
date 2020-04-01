@@ -1,51 +1,43 @@
 # Fablab U Chile Face Shield / This is a work in progress
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+### Table of contents
+[TOC]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-# Resume
+## Resume
 
 Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between sanitations.
 
-#### Printed prototype
+v2
+![first prototype](/images/v2.JPG "Prototype")
 
-![first prototype](/images/prototyp.png "Prototype")
+v1
+![second prototype](/images/prototyp.png "Prototype")
 
-# Parts
+## Parts
 
 The device consists of three components:
 * 3D printed headband
 * Clear cellulose acetate (mica) sheet (letter (216x279mm) or legal size (216x356mm))
 * Rubber band 
 
-## 3D Printed Headband
+### 3D Printed Headband
 
 **YOU CAN GET THE .STL** at Thingiverse or Grabcad (STEP). Please check the version list, *this is a work in progress*.
 
-Version | Thingiverse | GrabCad | Release date 
-------- | ----------- | ------- | ------------ 
-V1.9  | [v1.9](https://www.thingiverse.com/thing:4250678) | [v1.9](https://grabcad.com/library/covid-face-shield-v2-1) |   30-03   |     
-V2.0  | [v2.0](https://www.thingiverse.com/thing:4250678) |  [v2.0](https://grabcad.com/library/covid-face-shield-v2-1)  |   31-03     
-
-
+Version | File Name | Thingiverse | GrabCad | Release date 
+------- | --------- | ----------- | ------- | ------------ 
+V2.0  | faceshield_fablab_uch_v2.stl | [link](https://www.thingiverse.com/thing:4250678) |  [link](https://grabcad.com/library/covid-face-shield-v2-1)  |   31-03     
+V1.0  | FaceShield_FabLab_UCH.stl | [link](https://www.thingiverse.com/thing:4250678) | [link](https://grabcad.com/library/covid-face-shield-2) |   30-03   |     
 We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band, or another subjection device.
 
 
-### Printer Settings 
+#### Printer Settings 
 
-#### Part deployment on Cura, slip fits upward
-
-![faceshield in cura](/images/cura1.png "Part deployment on Cura")
+**Part deployment on Cura, slip fits upward**
+![Part deployment on Cura, slip fits upward](/images/cura1.png "Part deployment on Cura")
 
 We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
 
@@ -65,21 +57,47 @@ The only problem you may have with the printed part are the slip fits for suppor
 
 ![difficult part](/images/cura2.png)
 
-## Commercial Parts
+### Commercial Parts
 
-### Clear plastic sheet
+#### Clear plastic sheet
 
 The sheet is a cellulose acetate clear sheet, letter size (216X356 mm) or legal size (216x356mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
 
 
-### Rubber band
+#### Rubber band
 
 You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://www.aliexpress.com/i/32900926065.html).
 
 ![rubber bands](/images/rubberbands.jpg)
 
+## Assembly
 
-# Sterilization and safety recommendations
+After printing and sanitation of the parts, introduce the sheet in the fits of the headband in the outer strip as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently. This is fundamental as otherwhise the user will be in danger of infection.
+
+1. Put one corner of the sheet into one lateral fit
+![assembly1](/images/1.JPG "Slip the corner of the sheet into the place")
+
+2. Put the middle of the sheet in the frontal fit
+
+![assembly1](/images/2.JPG)
+
+3. Put the other corner of the sheet into the other lateral fit
+
+![assembly2](/images/3.JPG)
+
+4. Hook the ruber band in the headband ends
+
+![assembly3](/images/4.JPG)
+
+![assembly4](/images/5.JPG)
+
+## Usage
+
+Once the user is fully equiped with other protection measures, the inner band of the faceshield is put against the forehead, and then, the rubber band is pulled down to the back of the head.
+
+If you want to help plase check [this document](/docs/LaminaFaceShield.pdf) or in the [AFES website](https://afeschile.cl).
+
+## Sterilization and safety recommendations
 
 During all the proccess, the components must be handled as if you were infected with Covid-19 virus, in a clean environment using clean gloves and mask to avoid cross contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored **three or four days** before delivery, unless the proper hygiene and sanitation protocols are being taken.
 
@@ -87,28 +105,23 @@ For sterilization at home, the [recommendations](https://www.minsal.cl/wp-conten
 
 You can take a look on [this list](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) for products that meet EPA’s criteria for use against SARS-CoV-2.
 
-# Assembly
+## Join the community
 
-After printing and sanitation of the parts, introduce the sheet in the fits of the headband in the outer strip as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently. This is fundamental as otherwhise the user will be in danger of infection.
+We encourage you to get involved and to make your part in this Covic-19 crisis. You can print the model, get the commercial parts, assemble the mask and share with those most in need.
 
-#### 1. Put one corner of the sheet into one lateral fit
-![assembly1](/images/1.JPG "Slip the corner of the sheet into the place")
+If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here](https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
 
-#### 2. Put the middle of the sheet in the frontal fit
+You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
-![assembly1](/images/2.JPG)
+## License
 
-#### 3. Put the other corner of the sheet into the other lateral fit
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-![assembly2](/images/3.JPG)
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
 
-#### 4. Hook the ruber band in the headband ends
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-![assembly3](/images/4.JPG)
-
-![assembly4](/images/5.JPG)
-
-# Usage
-
-Once the user is fully equiped with other protection measures, the inner band of the faceshield is put against the forehead, and then, the rubber band is pulled down to the back of the head.
-
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
