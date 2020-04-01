@@ -91,21 +91,27 @@ You can use any rubber band as long you feel comfortable with it, we used the mo
 After printing and sanitation of the parts, introduce the sheet in the fits of the headband in the outer strip as the picture below shows. Then, hook the rubber band in the headband ends. Ensure that the sheet is firm by pulling it gently. This is fundamental as otherwhise the user will be in danger of infection.
 
 1. Put one corner of the sheet into one lateral fit
-![assembly1](/images/1.JPG "Slip the corner of the sheet into the place")
+
+<img src="/images/1.JPG" alt="step 1"
+	title="step 1" width="400" />
 
 2. Put the middle of the sheet in the frontal fit
 
-![assembly1](/images/2.JPG)
+<img src="/images/2.JPG" alt="step 2"
+	title="step 2" width="400" />
 
 3. Put the other corner of the sheet into the other lateral fit
 
-![assembly2](/images/3.JPG)
+<img src="/images/3.JPG" alt="step 3"
+	title="step 3" width="400" />
 
 4. Hook the ruber band in the headband ends
 
-![assembly3](/images/4.JPG)
+<img src="/images/4.JPG" alt="step 4"
+	title="step 4" width="400" />
 
-![assembly4](/images/5.JPG)
+<img src="/images/5.JPG" alt="step 5"
+	title="step 5" width="400" />
 
 ## Usage
 
