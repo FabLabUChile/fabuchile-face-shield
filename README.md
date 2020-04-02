@@ -40,7 +40,7 @@ The device consists of three components:
 
 ### 3D Printed Headband
 
-**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-v2-1) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
+**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
