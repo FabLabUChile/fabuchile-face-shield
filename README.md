@@ -1,8 +1,9 @@
 # Fablab U Chile Face Shield / This is a work in progress
 
-Versión en español [acá](/LEEME.md)
+Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
 ### Table of contents
+
 - [Fablab U Chile Face Shield / This is a work in progress](#fablab-u-chile-face-shield---this-is-a-work-in-progress)
     + [Table of contents](#table-of-contents)
   * [Resume](#resume)
@@ -13,13 +14,11 @@ Versión en español [acá](/LEEME.md)
       - [Clear plastic sheet](#clear-plastic-sheet)
       - [Rubber band](#rubber-band)
   * [Assembly](#assembly)
-  * [Usage](#usage)
   * [Sterilization and safety recommendations](#sterilization-and-safety-recommendations)
   * [Join the community](#join-the-community)
   * [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Resume
 
@@ -40,17 +39,16 @@ The device consists of three components:
 
 ### 3D Printed Headband
 
-**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-v2-1) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
+**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
-We printed the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
+We recommend to print the headband in PLA, as is easier to print, no hot bed needed, compostable, has a low carbon footprint and it is tough enough. You can use a stronger filament if you want, like ABS or PETG, as long it is compatible with the sanitation measures that will be used on it.
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band, or another subjection device.
-
 
 #### Printer Settings 
 
@@ -73,20 +71,21 @@ You can also print two or more headbands at a time, depending on the size of you
 
 The only problem you may have with the printed part are the slip fits for supporting the clear sheet. It's optimized for 0.4 mm nozzle.
 
-![difficult part](/images/cura2.png)
+<img src="/images/cura2.png" alt="difficult part"
+	title="step 1" width="500" />
 
 ### Commercial Parts
 
 #### Clear plastic sheet
 
-The sheet is a cellulose acetate clear sheet, letter size (216X356 mm) or legal size (216x356mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
-
+The sheet is a cellulose acetate clear sheet, letter size (216X279 mm) or legal size (216x356 mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
 
 #### Rubber band
 
 You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://www.aliexpress.com/i/32900926065.html).
 
-![rubber bands](/images/rubberbands.jpg)
+<img src="/images/rubberbands.jpg" alt="rubber band"
+	title="step 1" width="500" />
 
 ## Assembly
 
@@ -115,25 +114,21 @@ After printing and sanitation of the parts, introduce the sheet in the fits of t
 <img src="/images/5.JPG" alt="step 5"
 	title="step 5" width="400" />
 
-## Usage
-
-Once the user is fully equiped with other protection measures, the inner band of the faceshield is put against the forehead, and then, the rubber band is pulled down to the back of the head.
-
-If you want to help plase check [this document](/docs/LaminaFaceShield.pdf) or in the [AFES website](https://afeschile.cl).
-
 ## Sterilization and safety recommendations
 
 During all the proccess, the components must be handled as if you were infected with Covid-19 virus, in a clean environment using clean gloves and mask to avoid cross contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored **three or four days** before delivery, unless the proper hygiene and sanitation protocols are being taken.
 
-For sterilization at home, the [recommendations](https://www.minsal.cl/wp-content/uploads/2020/03/PROTOCOLO-DE-LIMPIEZA-Y-DESINFECCIÓN-DE-AMBIENTES-COVID-19.pdf) of ECDC are cleaning with 0,1% sodium hypoclorite (dilution 1:50 if household bleach at an initial concentration of 5% is used, 20mL in a 1L of water). *This is currently being verified by professionals*.
+<!-- For sterilization at home, the [recommendations](https://www.minsal.cl/wp-content/uploads/2020/03/PROTOCOLO-DE-LIMPIEZA-Y-DESINFECCIÓN-DE-AMBIENTES-COVID-19.pdf) of ECDC are cleaning with 0,1% sodium hypoclorite (dilution 1:50 if household bleach at an initial concentration of 5% is used, 20mL in a 1L of water). *This is currently being verified by professionals*. -->
 
-You can take a look on [this list](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) for products that meet EPA’s criteria for use against SARS-CoV-2.
+You can find more information about this proyect in [this brochure](/docs/LaminaFaceShield.pdf) or in the [AFES website](https://afeschile.cl).
+
+<!-- You can take a look on [this list](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) for products that meet EPA’s criteria for use against SARS-CoV-2. -->
 
 ## Join the community
 
 We encourage you to get involved and to make your part in this Covic-19 crisis. You can print the model, get the commercial parts, assemble the mask and share with those most in need.
 
-If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here](https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
+If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here](https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v3). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
