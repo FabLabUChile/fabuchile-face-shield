@@ -24,16 +24,23 @@ Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
 Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between sanitations.
 
-v4
+#### v4
+
 <img src="/images/v4.jpg" alt="v4"
 	title="v4" width="600" />
-v3
+
+#### v3
+
 <img src="/images/v3.jpg" alt="v3"
 	title="v3" width="600" />
-v2
+
+#### v2
+
 <img src="/images/v2.JPG" alt="v2"
 	title="v2" width="600" />
-v1
+
+#### v1
+
 <img src="/images/v1.png" alt="v1"
 	title="v1" width="600" />
 
