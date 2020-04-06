@@ -22,7 +22,8 @@ Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
 ## Resume
 
-Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between sanitations.
+Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between 
+sanitations.
 
 #### v4
 
@@ -53,7 +54,7 @@ The device consists of three components:
 
 ### 3D Printed Headband
 
-**YOU CAN GET THE .STL** at [Thingiverse](https://www.thingiverse.com/thing:4250678) or [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STEP and F3D). Please check the version list, remember *this is a work in progress*.
+**YOU CAN GET THE FILES** at [Thingiverse](https://www.thingiverse.com/thing:4250678)(STL) or [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STL, STEP and F3D). Please check the version list, remember *this is a work in progress*.
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
@@ -144,9 +145,11 @@ You can find more information about this proyect in [this brochure](/docs/Lamina
 
 We encourage you to get involved and to make your part in this Covic-19 crisis. You can print the model, get the commercial parts, assemble the mask and share with those most in need.
 
-If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here](https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v3). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
+If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here]([last-version]). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
+
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v4
 
 ## License
 

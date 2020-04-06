@@ -149,7 +149,7 @@ Si crees que este modelo puede mejorar, tenemos disponibles los archivos CAD par
 
 Pueden encontrarnos en [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) o revisar nuestra [página web](www.fablab.uchile.cl) para conocer nuestros proyectos.
 
-[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v3
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v4
 
 ## License
 
