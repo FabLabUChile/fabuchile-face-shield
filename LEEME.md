@@ -145,7 +145,7 @@ Puedes encontrar más información acerca de este proyecto en el siguiente [docu
 
 Debido a la contingencia del coronavirus, se necesita más ayuda que nunca de los makers y entusiastas de la fabricación digital, por lo que te invitamos a fabricar protectores faciales y otros insumos que pueden ser requeridos por los equipos médicos en las próximas semanas, siguiendo las medidas sanitarias correspondientes. Si no puedes fabricar, puedes correr la voz para que el llamado llegue a todos.
 
-Si crees que este modelo puede mejorar, tenemos disponibles los archivos CAD para Fusion 360 o STEP en [este enlace]([last-version]). Puedes hacer modificaciones y enviarnosla para revisarla y publicarla en nuestras redes si pasa la prueba de calidad. Somos enfáticos en que **seas serio** al imprimir y repartir este tipo de insumos impresos en 3D y que cumplas todas las medidas de seguridad recomendadas.
+Si crees que este modelo puede mejorar, tenemos disponibles los archivos CAD para Fusion 360 o STEP en [este enlace][last-version]. Puedes hacer modificaciones y enviarnosla para revisarla y publicarla en nuestras redes si pasa la prueba de calidad. Somos enfáticos en que **seas serio** al imprimir y repartir este tipo de insumos impresos en 3D y que cumplas todas las medidas de seguridad recomendadas.
 
 Pueden encontrarnos en [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) o revisar nuestra [página web](www.fablab.uchile.cl) para conocer nuestros proyectos.
 
