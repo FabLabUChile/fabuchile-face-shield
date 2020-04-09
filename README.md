@@ -59,7 +59,7 @@ The device consists of three components:
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
-V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
+V3.0	| faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
@@ -145,7 +145,7 @@ You can find more information about this proyect in [this brochure](/docs/Lamina
 
 We encourage you to get involved and to make your part in this Covic-19 crisis. You can print the model, get the commercial parts, assemble the mask and share with those most in need.
 
-If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here]([last-version]). Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
+If you think you can make an improvement of our face shield you can find the Fusion 360 cad, or STEP files [here][last-version]. Please **be serious** and test the functionality of your printed parts before you start producing and sharing them.
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
