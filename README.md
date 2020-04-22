@@ -70,7 +70,7 @@ Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
 V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
-V3.0	| faceshield_fablab_uch_v3.stl	| 02-04
+V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
@@ -80,8 +80,9 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 #### Printer Settings 
 
-**Part deployment on Cura, slip fits upward**
-![Part deployment on Cura, slip fits upward](/images/cura1.png "Part deployment on Cura")
+**V5 deployment on Cura, be sure the frontal slip fit is upwards**
+<img src="/images/v5.png" alt="v5"
+	title="v5" width="600" />
 
 We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
 
@@ -93,12 +94,11 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
-You can also print two or more headbands at a time, depending on the size of your printer bed.
-
-![two headbands printed](/images/curatwoheadbands.png "Two headbands deployment on Cura")
+You can also print two or more headbands stacked up, depending on the reliability of your printer.
+<img src="/images/v5_4stacked_cura.png" alt="v5stacked"
+	title="v5stacked" width="600" />
 
 The only problem you may have with the printed part are the slip fits for supporting the clear sheet. It's optimized for 0.4 mm nozzle.
-
 <img src="/images/cura2.png" alt="difficult part"
 	title="step 1" width="500" />
 
