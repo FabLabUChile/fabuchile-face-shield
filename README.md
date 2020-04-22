@@ -82,7 +82,7 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 **V5 deployment on Cura, be sure the frontal slip fit is upwards**
 <img src="/images/v5_cura.png" alt="v5"
-	title="v5" width="600" />
+	title="v5" width="800" />
 
 We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
 
@@ -96,7 +96,7 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 
 You can also print two or more headbands stacked up, depending on the reliability of your printer.
 <img src="/images/v5_4stacked_cura.png" alt="v5stacked"
-	title="v5stacked" width="600" />
+	title="v5stacked" width="800" />
 
 The only problem you may have with the printed part are the slip fits for supporting the clear sheet. It's optimized for 0.4 mm nozzle.
 <img src="/images/cura2.png" alt="difficult part"
