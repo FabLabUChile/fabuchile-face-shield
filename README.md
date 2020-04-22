@@ -94,7 +94,8 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Infill density: 30%
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
-You can also print two or more headbands stacked up, depending on the reliability of your printer.
+You can also print two or more headbands stacked up, depending on the reliability of your printer. We have tested the stacked printings with 0.2mm separation in Z between each headband.
+
 <img src="/images/v5_4stacked_cura.png" alt="v5stacked"
 	title="v5stacked" width="800" />
 
