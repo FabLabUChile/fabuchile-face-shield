@@ -27,7 +27,7 @@ sanitations.
 
 #### LAST VERSION -> v5
 
-The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong forces. We also aded some minor improvements for stack printing.
+The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong undesirable forces. We also aded some minor improvements for stack printing.
 
   <img src="/images/v5.jpg" alt="v5"
 	title="v5" width="600" />
@@ -80,7 +80,7 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 
 #### Printer Settings 
 
-**V5 deployment on Cura, be sure the frontal slip fit is upwards**
+V5 deployment on Cura, be sure the frontal slip fit and the rear hooks are upwards.
 <img src="/images/v5_cura.png" alt="v5"
 	title="v5" width="800" />
 
@@ -146,6 +146,8 @@ After printing and sanitation of the parts, introduce the sheet in the fits of t
 ## Sterilization and safety recommendations
 
 During all the proccess, the components must be handled as if you were infected with Covid-19 virus, in a clean environment using clean gloves and mask to avoid cross contamination, and quickly stored in a plastic bag as soon it cools down after printing. [Recent studies](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home) had revealed that the virus can last until 90 hours in plastic surfaces, so the headbands must be stored **three or four days** before delivery, unless the proper hygiene and sanitation protocols are being taken.
+
+You can get updated information about sanitization of 3D printed faceshields in [this](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457#_ga=2.252887433.1803747422.1587586218-241505996.1587586218) article.
 
 <!-- For sterilization at home, the [recommendations](https://www.minsal.cl/wp-content/uploads/2020/03/PROTOCOLO-DE-LIMPIEZA-Y-DESINFECCIÓN-DE-AMBIENTES-COVID-19.pdf) of ECDC are cleaning with 0,1% sodium hypoclorite (dilution 1:50 if household bleach at an initial concentration of 5% is used, 20mL in a 1L of water). *This is currently being verified by professionals*. -->
 
