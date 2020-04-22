@@ -81,7 +81,7 @@ The headband consist in two strips joint togheter in the ends. The inner strip g
 #### Printer Settings 
 
 **V5 deployment on Cura, be sure the frontal slip fit is upwards**
-<img src="/images/v5.png" alt="v5"
+<img src="/images/v5_cura.png" alt="v5"
 	title="v5" width="600" />
 
 We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as slicer, using the following parameters:
