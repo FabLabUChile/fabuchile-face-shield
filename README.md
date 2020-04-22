@@ -25,6 +25,16 @@ Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between 
 sanitations.
 
+#### LAST VERSION -> v5
+
+The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong forces. We also aded some minor improvements for stack printing.
+
+  <img src="/images/v5.jpg" alt="v5"
+	title="v5" width="600" />
+
+  <img src="/images/v5_stack.jpg" alt="v5_stack"
+	title="v5_stack" width="600" />
+
 #### v4
 
 <img src="/images/v4.jpg" alt="v4"
@@ -58,6 +68,7 @@ The device consists of three components:
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
+V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
 V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
@@ -149,7 +160,7 @@ If you think you can make an improvement of our face shield you can find the Fus
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
-[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v4
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v5
 
 ## License
 
