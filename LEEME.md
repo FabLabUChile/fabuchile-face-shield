@@ -24,6 +24,16 @@ English version [here](/README.md) | Versión en inglés [acá](/README.md)
 
 Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), la idea de este diseño es eliminar cualquier trabajo extra en las piezas, disminuyendo la probabilidad de contaminación durante la fabricación y para que sea directamente ensamblable. El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección al staff médico y extendiendo el período de uso higiénico de la máscara.
 
+#### Última versión -> v5
+
+La nueva versión de la máscara facial tiene mejoras que otorgan mayor comodidad en su uso: sus bandas laterales se abrieron hasta quedar casi paralelas para disminuir el malestar en las sienes que se generaba al utilizar mucho tiempo la máscara facial. Tiene una estructura un poco más robousta y se agregaron unos detalles para la impresión en pila (una sobre otra).
+
+  <img src="/images/v5.jpg" alt="v5"
+	title="v5" width="600" />
+
+  <img src="/images/v5_stack.jpg" alt="v5_stack"
+	title="v5_stack" width="600" />
+
 #### v4
 
 En la versión 4.0 se hace un poco más resistente la pestaña del frente ya que algunos usuarios comentaron que era un poco frágil.
@@ -57,10 +67,11 @@ EL dispositivo está compuesto por 3 componentes:
 
 ### Cintillo impreso en 3D
 
-**PUEDES DESCARGAR EL .STL** en [Thingiverse](https://www.thingiverse.com/thing:4250678) o en [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STEP and F3D). Por favor antes de descargar e imprimir, revisa el historial de versiones, recuerda que *este es un trabajo en progreso* por lo si encontramos mejoras a nuestro cintillo, iremos subiendo las diferentes versiones.
+**PUEDES DESCARGAR EL .STL** en [PrusaPrinters](https://www.prusaprinters.org/prints/30347-fablab-u-de-chile-faceshield),  [Thingiverse](https://www.thingiverse.com/thing:4250678) o en [Grabcad](https://grabcad.com/library/covid-face-shield-2) (STEP and F3D). Por favor antes de descargar e imprimir, revisa el historial de versiones, recuerda que *este es un trabajo en progreso* por lo si encontramos mejoras a nuestro cintillo, iremos subiendo las diferentes versiones.
 
-Version | File Name                     | Release date
+Versión | Nombre del archivo            | Fecha de liberación
 ------- | ---------------------------   | ------------
+V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
 V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
@@ -72,6 +83,10 @@ El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La
 
 #### Parámetros de impresión
 
+versión 5 en la cama de software Cura, la solapa frontal mira hacia arriba, al igual que los ganchos de la parte de atrás del cintillo.
+<img src="/images/v5_cura.png" alt="v5"
+	title="v5" width="800" />
+
 Usamos impresoras Ender 3 y Ender 5 para probar los modelos, y Cura como slicer, usando los siguientes parámetros:
 
 - Material: PLA
@@ -79,12 +94,13 @@ Usamos impresoras Ender 3 y Ender 5 para probar los modelos, y Cura como slicer,
 - Temperatura de cama: 60°C
 - Altura de capa: 0.3 mm
 - Número de Shells: 3
-- Densidad de infills: 30%
+- Densidad de infills: 0% - 10% (casi puros muros, puede ser 0%)
 - Velocidad: 60 mm/s infill, 30 mm/s shells.
 
 Se pueden imprimir varios cintillos al mismo tiempo, dependiendo del tamaño de la cama de tu impresora.
 
-![two headbands printed](/images/curatwoheadbands.png "Two headbands deployment on Cura")
+<img src="/images/v5_4stacked_cura.png" alt="v5stacked"
+	title="v5stacked" width="800" />
 
 La única parte compleja de esta pieza son los calces para afirmar el plástico transparente al cintillo, está optimizado para ser impreso con una boquilla de 0.4 mm. Tienen que asegurarse que esta parte se imprima correctamente para que funcione el cintillo.
 
@@ -149,7 +165,7 @@ Si crees que este modelo puede mejorar, tenemos disponibles los archivos CAD par
 
 Pueden encontrarnos en [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) o revisar nuestra [página web](www.fablab.uchile.cl) para conocer nuestros proyectos.
 
-[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v4
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v5
 
 ## License
 
