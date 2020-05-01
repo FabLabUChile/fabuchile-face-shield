@@ -91,7 +91,7 @@ We used some Ender 3 and Ender 5 3D printers to make the prototype and Cura as s
 - Bed Temp: 60°C
 - Layer Height: 0.3 mm
 - Number of Shells: 3
-- Infill density: 30%
+- Infill density: 0% - 10% (many walls so this can be 0%)
 - Speed: 60 mm/s infill, 30 mm/s walls.
 
 You can also print two or more headbands stacked up, depending on the reliability of your printer. We have tested the stacked printings with 0.2mm separation in Z between each headband.
