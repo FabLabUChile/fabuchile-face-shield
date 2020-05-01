@@ -176,4 +176,4 @@ License][cc-by-sa].
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY%20SA204.0-lightgrey.svg
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg
