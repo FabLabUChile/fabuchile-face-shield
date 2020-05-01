@@ -167,7 +167,7 @@ You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [ins
 
 ## License
 
-Shield: [![CC BY 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by-sa].
