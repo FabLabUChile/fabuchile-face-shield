@@ -22,7 +22,7 @@ English version [here](/README.md) | Versión en inglés [acá](/README.md)
 
 ## Resumen
 
-Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), la idea de este diseño es eliminar cualquier trabajo extra en las piezas, disminuyendo la probabilidad de contaminación durante la fabricación y para que sea directamente ensamblable. El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección al staff médico y extendiendo el período de uso higiénico de la máscara.
+Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), la idea de este diseño es eliminar cualquier trabajo extra en las piezas, disminuyendo la probabilidad de contaminación durante la fabricación y para que sea directamente ensamblable. El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección. Advertencia: Este no es un dispositivo médico certificado.
 
 #### Última versión -> v5
 
