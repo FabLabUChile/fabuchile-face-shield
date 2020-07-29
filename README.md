@@ -36,7 +36,7 @@ The new version has several modifications. We want to make the faceshield secure
 ![imagen](images/v6_3.png)
 ![imagen](images/v6_4.png)
 
-#### v5
+#### v5 (can be stacked)
 
 The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong undesirable forces. We also aded some minor improvements for stack printing.
 
@@ -70,8 +70,13 @@ The new version improves the comfortability in the usage, with wide open, almost
 
 The device consists of three components:
 * 3D printed headband
-* Clear cellulose acetate (mica) sheet (letter (216x279mm) or legal size (216x356mm))
+* Clear plastic sheet (*)
 * Rubber band
+
+```
+* letter size (215.9 x 279mm) v1 to v5, portrait oriented, or
+  legal size (215.9 x 330.2mm) v6, landscape oriented for side protection
+```
 
 ### 3D Printed Headband
 
@@ -79,9 +84,10 @@ The device consists of three components:
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
+V6.0	| face_shield_fabuchile_v6.stl	| 27-07
 V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
-V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
+V3.0	| faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
