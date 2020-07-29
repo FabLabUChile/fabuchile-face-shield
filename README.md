@@ -2,7 +2,7 @@
 
 Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
-### Table of contents
+## Table of contents
 
 - [Fablab U Chile Face Shield / This is a work in progress](#fablab-u-chile-face-shield---this-is-a-work-in-progress)
     + [Table of contents](#table-of-contents)
@@ -25,7 +25,18 @@ Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, this in an EMERGENCY Face Shield. The purpose of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection.
 Warning: This is not a certified medical device.
 
-#### LAST VERSION -> v5
+## Versions
+
+#### LAST VERSION -> v6 (updated 27-07-2020)
+
+The new version has several modifications. We want to make the faceshield secure for clinical usage, adding a cover on top of it, and some minors modifications for comfort.
+
+![imagen](images/v6_1.png)
+![imagen](images/v6_2.png)
+![imagen](images/v6_3.png)
+![imagen](images/v6_4.png)
+
+#### v5
 
 The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong undesirable forces. We also aded some minor improvements for stack printing.
 
