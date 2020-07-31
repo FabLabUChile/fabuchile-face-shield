@@ -31,7 +31,7 @@ Warning: This is not a certified medical device.
 
 The new version has several modifications. We want to make the faceshield secure for clinical usage, adding a cover on top of it, and some minors modifications for comfort.
 
-Recently, we subjected the Facial Shield to laboratory tests (LICTEX USACH) to validate the performance of the Facial Shield. The tests carried out were (1) Protection of standard point protected areas (2) Protection against drops and liquid splashes (3) Evaluation of lateral protection (4) Evaluation of the Visual Field.
+Recently, we subjected the Facial Shield to laboratory tests (LICTEX USACH) to validate the performance of the Facial Shield. The tests carried out were (1) Protection of standard point protected areas (2) Protection against drops and liquid splashes (3) Evaluation of lateral protection (4) Evaluation of the Visual Field. These tests are verified by the Chilean Institute of Public Health (ISP).
 The Face Shield successfully passed all tests.
 * According to the standard, to market Facial Shields in Chile, one (5) test is required, that of fogging. But in Chile, there are no laboratories that can carry out this test.
 
