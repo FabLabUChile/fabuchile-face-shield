@@ -28,6 +28,12 @@ Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints
 
 La nueva versión de la máscara facial tiene mejoras que otorgan mayor comodidad en su uso: sus bandas laterales se abrieron hasta quedar casi paralelas para disminuir el malestar en las sienes que se generaba al utilizar mucho tiempo la máscara facial. Tiene una estructura un poco más robousta y se agregaron unos detalles para la impresión en pila (una sobre otra).
 
+Recientemente, sometimos el Escudo Facial a pruebas de laboratorio (LICTEX USACH) para validar la eficiencia del Escudo Facial. Las pruebas realizadas fueron (1) Protección zonas protegidas punto norma (2) Protección contra gotas y salpicaduras de líquidos (3) Evaluación de la protección lateral (4) Valorización Campo Visual. Estas pruebas son verificadas por el Instituto de Salud Pública de Chile.
+El Escudo Facial superó satisfactoriamente todas las pruebas. 
+*Según la norma, para comercializar Escudos Faciales en Chile, se requiere una (5) prueba, la de empañamiento. Pero en Chile, no existen Laboratorios que puedan realizar dicha prueba. 
+
+
+
   <img src="/images/v5.jpg" alt="v5"
 	title="v5" width="600" />
 
