@@ -1,5 +1,4 @@
-# Fablab U Chile Face Shield / This is a work in progress
-
+# Fablab U Chile Face Shield
 Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
 ## Table of contents
