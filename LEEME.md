@@ -3,10 +3,15 @@
 English version [here](/README.md) | Versión en inglés [acá](/README.md)
 
 ### Tabla de contenidos
-
-- [Fablab U Chile Escudo Facial / Esto es un trabajo en progreso](#fablab-u-chile-escudo-facial---esto-es-un-trabajo-en-progreso)
-    + [Tabla de contenidos](#tabla-de-contenidos)
   * [Resumen](#resumen)
+    + [Validación de seguridad y eficacia](#validaci-n-de-seguridad-y-eficacia)
+  * [Versiones](#versiones)
+      - [ÚLTIMA VERSIÓN -> V6.0](#-ltima-versi-n----v60)
+      - [V5.0 (puede imprimirse en torre)](#v50--puede-imprimirse-en-torre-)
+      - [V4.0](#v40)
+      - [V3.0](#v30)
+      - [V2.0](#v20)
+      - [V1.0](#v10)
   * [Partes](#partes)
     + [Cintillo impreso en 3D](#cintillo-impreso-en-3d)
       - [Parámetros de impresión](#par-metros-de-impresi-n)
@@ -16,15 +21,43 @@ English version [here](/README.md) | Versión en inglés [acá](/README.md)
   * [Ensamble](#ensamble)
   * [Recomendaciones de estrilización y seguridad](#recomendaciones-de-estrilizaci-n-y-seguridad)
   * [Únete a la comunidad](#-nete-a-la-comunidad)
-  * [License](#license)
+  * [Licencia](#licencia)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
 ## Resumen
 
-Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), la idea de este diseño es eliminar cualquier trabajo extra en las piezas, disminuyendo la probabilidad de contaminación durante la fabricación y para que sea directamente ensamblable. El escudo facial está hecho para complementar el uso de la máscara facial N95 y antiparras de seguridad, dando más protección al staff médico y extendiendo el período de uso higiénico de la máscara.
+Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3), diseñamos este escudo facial pensando en eliminar cualquier trabajo extra en las [partes comerciales](#partes-comerciales), disminuyendo la probabilidad de contaminación durante la fabricación y para que sea directamente ensamblable. El escudo facial está hecho para complementar el uso de la mascarilla N95 o similar.
 
-#### Última versión -> v5
+### Validación de seguridad y eficacia
+
+Recientemente, sometimos la versión V6.0 del Escudo Facial a pruebas de laboratorio ([LICTEX USACH](https://www.linkedin.com/company/lictex-udesantiago/?originalSubdomain=cl)) para validar la eficacia del Escudo Facial (*)(**). Las pruebas realizadas fueron:
+1. Protección zonas protegidas punto norma
+2. Protección contra gotas y salpicaduras de líquidos
+3. Evaluación de la protección lateral
+4. Valorización Campo Visual.
+
+(*)Estas pruebas son verificadas por el [Instituto de Salud Pública de Chile](http://www.ispch.cl/).
+
+(**)Según la norma, para comercializar Escudos Faciales en Chile, se requiere una 5ta prueba, de empañamiento, pero en Chile no existen laboratorios que puedan realizar dicha prueba.
+
+
+## Versiones
+
+#### ÚLTIMA VERSIÓN -> V6.0
+
+La nueva versión tiene mejoras en dirección a generar la mayor protección posible:
+* Se modifica la distancia del soporte para la mica, que hasta la versión 5 estaba pensada para una mica tamaño carta (~216 mm), en esta versión se modificó para utilizar una mica tamaño oficio en orientación horizontal (~330 mm).
+* Se agrega una vicera que protege la cara del usuario de salpicaduras o partículas que puedan venir desde arriba.
+* La vicera quita mucha flexibilidad y comodidad al escudo, por lo que se realizaron cortes entre la vicera y las patas laterales para que sea más cómodo y adaptable a distintos tamaños de cabeza.
+
+![imagen](images/v6_1.png)
+![imagen](images/v6_2.png)
+![imagen](images/v6_3.png)
+![imagen](images/v6_4.png)
+
+#### V5.0 (puede imprimirse en torre)
 
 La nueva versión de la máscara facial tiene mejoras que otorgan mayor comodidad en su uso: sus bandas laterales se abrieron hasta quedar casi paralelas para disminuir el malestar en las sienes que se generaba al utilizar mucho tiempo la máscara facial. Tiene una estructura un poco más robousta y se agregaron unos detalles para la impresión en pila (una sobre otra).
 
@@ -34,26 +67,26 @@ La nueva versión de la máscara facial tiene mejoras que otorgan mayor comodida
   <img src="/images/v5_stack.jpg" alt="v5_stack"
 	title="v5_stack" width="600" />
 
-#### v4
+#### V4.0
 
 En la versión 4.0 se hace un poco más resistente la pestaña del frente ya que algunos usuarios comentaron que era un poco frágil.
 
 <img src="/images/v4.jpg" alt="v4"
 	title="v4" width="600" />
 
-#### v3
+#### V3.0
 
 La versión 3 tiene la parte de atrás del cintillo curva para entregar mayor comodidad.
 
 <img src="/images/v3.jpg" alt="v3"
 	title="v3" width="600" />
 
-#### v2
+#### V2.0
 
 <img src="/images/v2.JPG" alt="v2"
 	title="v2" width="600" />
 
-#### v1
+#### V1.0
 
 <img src="/images/v1.png" alt="v1"
 	title="v1" width="600" />
@@ -71,9 +104,10 @@ EL dispositivo está compuesto por 3 componentes:
 
 Versión | Nombre del archivo            | Fecha de liberación
 ------- | ---------------------------   | ------------
+V6.0	| face_shield_fabuchile_v6.stl	| 27-07
 V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
-V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
+V3.0	| faceshield_fablab_uch_v3.stl	| 02-04
 V2.0    | faceshield_fablab_uch_v2.stl  | 31-03
 V1.0    | FaceShield_FabLab_UCH.stl     | 30-03
 
@@ -167,15 +201,15 @@ Pueden encontrarnos en [facebook](https://www.facebook.com/fablabudechile/), [in
 
 [last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v5
 
-## License
+## Licencia
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+Este trabajo está licenciado bajo la licencia [Creative Commons Attribution 4.0 International
+License][cc-by-sa].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg

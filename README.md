@@ -2,30 +2,65 @@
 
 Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
-### Table of contents
+## Table of contents
 
-- [Fablab U Chile Face Shield / This is a work in progress](#fablab-u-chile-face-shield---this-is-a-work-in-progress)
-    + [Table of contents](#table-of-contents)
-  * [Resume](#resume)
-  * [Parts](#parts)
-    + [3D Printed Headband](#3d-printed-headband)
-      - [Printer Settings](#printer-settings)
-    + [Commercial Parts](#commercial-parts)
-      - [Clear plastic sheet](#clear-plastic-sheet)
-      - [Rubber band](#rubber-band)
-  * [Assembly](#assembly)
-  * [Sterilization and safety recommendations](#sterilization-and-safety-recommendations)
-  * [Join the community](#join-the-community)
-  * [License](#license)
+- [Resume](#resume)
+  * [Security and effectiveness validation](#security-and-effectiveness-validation)
+- [Versions](#versions)
+    + [LAST VERSION -> v6](#last-version----v6)
+    + [v5 (can be stacked)](#v5--can-be-stacked-)
+    + [v4](#v4)
+    + [v3](#v3)
+    + [v2](#v2)
+    + [v1](#v1)
+- [Parts](#parts)
+  * [3D Printed Headband](#3d-printed-headband)
+    + [Printer Settings](#printer-settings)
+  * [Commercial Parts](#commercial-parts)
+    + [Clear plastic sheet](#clear-plastic-sheet)
+    + [Rubber band](#rubber-band)
+- [Assembly](#assembly)
+- [Sterilization and safety recommendations](#sterilization-and-safety-recommendations)
+- [Join the community](#join-the-community)
+- [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
 ## Resume
 
-Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, the idea of this design is to eliminate any further work on the parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 facial mask and goggles, adding more protection to the medical staff and extending the available time period of the N95 mask between 
-sanitations.
+Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, we design our own faceshield in order to eliminate any further work on the comercial parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 mask or similiar.
+Warning: This is not a certified medical device.
 
-#### LAST VERSION -> v5
+### Security and effectiveness validation
+
+Recently, we subjected the V6.0 of the FaceShield to laboratory tests ([LICTEX USACH](https://www.linkedin.com/company/lictex-udesantiago/?originalSubdomain=cl)) to validate the performance of the Facial Shield (*)(**). The tests carried out were:
+ 1. Protection of standard point protected areas
+ 2. Protection against drops and liquid splashes
+ 3. Evaluation of lateral protection
+ 4. Evaluation of the Visual Field.
+
+ (*) These tests are verified by the Chilean Institute of Public Health ([ISP](http://www.ispch.cl/)).
+The Face Shield successfully passed all tests.
+
+(**) According to the standard, to market Facial Shields in Chile, one (5) test is required, that of fogging. But in Chile, there are no laboratories that can carry out this test.
+
+## Versions
+
+#### LAST VERSION -> v6
+
+The new version has several modifications in order to ensure protection over other factors:
+* We increased the distances between the side flaps to use a legal size (~330 mm) translucent sheet. This modification gives more protection to the sides of the face.
+* We added a cover in top of the shield to protect the face from particles that may attack from above.
+* The cover increase the stiffness of the faceshield so we give more comfort by separating the side bars from the front part, also making it compliant for different head's sizes.
+
+
+![imagen](images/v6_1.png)
+![imagen](images/v6_2.png)
+![imagen](images/v6_3.png)
+![imagen](images/v6_4.png)
+
+#### v5 (can be stacked)
 
 The new version improves the comfortability in the usage, with wide open, almost paralel side bands, with a stronger structure to prevent breaking under strong undesirable forces. We also aded some minor improvements for stack printing.
 
@@ -59,8 +94,13 @@ The new version improves the comfortability in the usage, with wide open, almost
 
 The device consists of three components:
 * 3D printed headband
-* Clear cellulose acetate (mica) sheet (letter (216x279mm) or legal size (216x356mm))
+* Clear plastic sheet (*)
 * Rubber band
+
+```
+* letter size (215.9 x 279mm) v1 to v5, portrait oriented, or
+  legal size (215.9 x 330.2mm) v6, landscape oriented for side protection
+```
 
 ### 3D Printed Headband
 
@@ -68,6 +108,7 @@ The device consists of three components:
 
 Version | File Name                     | Release date
 ------- | ---------------------------   | ------------
+V6.0    | face_shield_fabuchile_v6.stl	| 27-07
 V5.0    | face_shield_fabuchile_v5.stl  | 22-04
 V4.0    | faceshield_fablab_uch_v4.stl  | 06-04
 V3.0	  | faceshield_fablab_uch_v3.stl	| 02-04
@@ -78,7 +119,7 @@ We recommend to print the headband in PLA, as is easier to print, no hot bed nee
 
 The headband consist in two strips joint togheter in the ends. The inner strip goes around the head and the outer strip holds the clear sheet with some slip fits, far from the face to allow some room for glasses or goggles, also to avoid some fogging in the sheet due to breathing. The ends of the headband have a hook and holes to mount the rubber band, or another subjection device.
 
-#### Printer Settings 
+#### Printer Settings
 
 V5 deployment on Cura, be sure the frontal slip fit and the rear hooks are upwards.
 <img src="/images/v5_cura.png" alt="v5"
@@ -163,7 +204,7 @@ If you think you can make an improvement of our face shield you can find the Fus
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
-[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v5
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v6
 
 ## License
 
