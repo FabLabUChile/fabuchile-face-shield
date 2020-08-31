@@ -1,4 +1,4 @@
-# Fablab U Chile Escudo Facial / Esto es un trabajo en progreso
+# Fablab U Chile Escudo Facial
 
 English version [here](/README.md) | Versión en inglés [acá](/README.md)
 
@@ -32,13 +32,15 @@ Basado en la iniciativa [Prusa Face Shield](https://www.prusaprinters.org/prints
 
 ### Validación de seguridad y eficacia
 
-Recientemente, sometimos la versión V6.0 del Escudo Facial a pruebas de laboratorio ([LICTEX USACH](https://www.linkedin.com/company/lictex-udesantiago/?originalSubdomain=cl)) para validar la eficacia del Escudo Facial (*)(**). Las pruebas realizadas fueron:
+Recientemente, sometimos la versión V6.0 del Escudo Facial a pruebas de laboratorio ([LICTEX USACH](https://www.linkedin.com/company/lictex-udesantiago/?originalSubdomain=cl)) para validar la eficacia del Escudo Facial (*)(**).
+
+Las pruebas realizadas fueron:
 1. Protección zonas protegidas punto norma
 2. Protección contra gotas y salpicaduras de líquidos
 3. Evaluación de la protección lateral
 4. Valorización Campo Visual.
 
-(*)Estas pruebas son verificadas por el [Instituto de Salud Pública de Chile](http://www.ispch.cl/).
+(*)Estas pruebas son verificadas por el [Instituto de Salud Pública de Chile](http://www.ispch.cl/). El escud facial paso exitosamente estas cuatro pruebas.
 
 (**)Según la norma, para comercializar Escudos Faciales en Chile, se requiere una 5ta prueba, de empañamiento, pero en Chile no existen laboratorios que puedan realizar dicha prueba.
 
