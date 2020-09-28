@@ -204,7 +204,7 @@ If you think you can make an improvement of our face shield you can find the Fus
 
 You can contact us in [facebook](https://www.facebook.com/fablabudechile/), [instagram](www.instagram.com/fablabudechile) or check our [webpage](www.fablab.uchile.cl).
 
-[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v5
+[last-version]: https://github.com/FabLabUChile/fabuchile-face-shield/tree/master/cad/v6
 
 ## License
 
