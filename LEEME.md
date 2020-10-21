@@ -2,7 +2,7 @@
 
 English version [here](/README.md) | Versión en inglés [acá](/README.md)
 
-### Tabla de contenidos
+## Tabla de contenidos
   * [Resumen](#resumen)
     + [Validación de seguridad y eficacia](#validaci-n-de-seguridad-y-eficacia)
   * [Versiones](#versiones)
@@ -95,10 +95,10 @@ La versión 3 tiene la parte de atrás del cintillo curva para entregar mayor co
 
 ## Partes
 
-EL dispositivo está compuesto por 3 componentes:
-* Cintillo impreso en 3D
-* Lámina transparente de acetato de celulosa (mica tamaño carta (216x279mm)  u oficio (216x356mm))
-* un elástico común
+El dispositivo está compuesto por 3 componentes principales:
+* cintillo impreso en 3D
+* hoja transparente de mica o plástico
+* banda elástica para la sujeción
 
 ### Cintillo impreso en 3D
 
@@ -120,6 +120,7 @@ El cintillo consiste en dos bandas de diferente largo unidas en sus extremos. La
 #### Parámetros de impresión
 
 versión 5 en la cama de software Cura, la solapa frontal mira hacia arriba, al igual que los ganchos de la parte de atrás del cintillo.
+
 <img src="/images/v5_cura.png" alt="v5"
 	title="v5" width="800" />
 
@@ -144,12 +145,15 @@ La única parte compleja de esta pieza son los calces para afirmar el plástico 
 	title="step 1" width="500" />
 
 ### Partes comerciales
+Para ensamblar completamente el escudo facial se requiere conseguir en el mercado local las siguientes componentes
+* hoja transparente de mica o plástico
+* banda elástica para la sujeción
 
-#### Mica tamaño carta u oficio
+#### hoja transparente de mica o plástico
 
-La lámina de mica es tamaño carta (216X279 mm) u oficio (216x356 mm), de 0.2 mm de espesor, está disponible en la mayoría de librerías o tiendas de artículos escolares. Es posible utilizar una lámina transparente de otro material si es que están disponibles en el mismo tamaño y son compatibles con los procesos de sanitización que se llevarán a cabo. También se puede utilizar como escudo el plástico de una botella de 2 litros recortada, si no tienes otro material a disposición.
+La lámina de hoja transparente puede ser tamaño carta (216X279 mm) u oficio (216x330 mm) orientada verticalmente para las versiones 1 a 5, y tamaño oficio (216x330mm) orientada horizontalmente para versión 6, de 0.2 mm de espesor. Este tipo de mica debería estar disponible en la mayoría de librerías o tiendas de artículos escolares. Es posible utilizar una lámina transparente de otro material si es que están disponibles en el mismo tamaño y son compatibles con los procesos de sanitización que se llevarán a cabo. También se puede utilizar como escudo el plástico de una botella de 2 litros recortada, si no tienes otro material a disposición.
 
-#### Banda elástica
+#### banda elástica
 
  Es posible usar cualquier banda elástica que permita que el dispositivo se sienta cómo y firme, nosotros usamos el [elástico más común](https://www.aliexpress.com/i/32900926065.html) que entrega comodidad y seguridad al usar el escudo.
 
