@@ -28,8 +28,9 @@ Spanish version [here](/LEEME.md) | Versión en español [acá](/LEEME.md)
 
 ## Resume
 
-Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, we design our own faceshield in order to eliminate any further work on the comercial parts, decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 mask or similiar.
-Warning: This is not a certified medical device.
+Based on the [Prusa Face Shield](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc3) initiative, we design our own face shield in order to eliminate any further work on the comercial parts, and to match with the local availability of them,  decreasing the chance of contamination during the fabrication stage and for direct assembly. The face shield is meant to be used complementary with a N95 mask or similiar.
+
+**Warning**: only V6.0 is a certificate medical device.
 
 ### Security and effectiveness validation
 
@@ -42,7 +43,7 @@ Recently, we subjected the V6.0 of the FaceShield to laboratory tests ([LICTEX U
  (*) These tests are verified by the Chilean Institute of Public Health ([ISP](http://www.ispch.cl/)).
 The Face Shield successfully passed all tests.
 
-(**) According to the standard, to market Facial Shields in Chile, one (5) test is required, that of fogging. But in Chile, there are no laboratories that can carry out this test.
+  (**) According to the standard of Facial Shields market in Chile, a fifth test is required, that of fogging. As we know, in Chile there are no laboratories that can carry out this test.
 
 ## Versions
 
@@ -143,15 +144,18 @@ The only problem you may have with the printed part are the slip fits for suppor
 <img src="/images/cura2.png" alt="difficult part"
 	title="step 1" width="500" />
 
-### Commercial Parts
+### Commercial parts
+the commercial parts needed for the full assembly of the face shield are
+* a transparent plastic or mica sheet
+* an elastic band
 
-#### Clear plastic sheet
+#### Transparent plastic sheet
 
-The sheet is a cellulose acetate clear sheet, letter size (216X279 mm) or legal size (216x356 mm), 0.2 mm thick, you can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
+The sheet is a cellulose acetate clear sheet, letter size (216X279 mm) or legal size (216x330 mm) vertical oriented for version 1 to 5) or legal size (216x330mm) horizontal oriented for v6, 0.2 mm thick. You can get some in almost any library or school supply store. It is possible to use a clear sheet of other material if it is available in the same size and if it is compatible with the available sanitation methods. You can also use the plastic of a 2-L bottle, if there is no other material available.
 
-#### Rubber band
+#### Elastic band
 
-You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://www.aliexpress.com/i/32900926065.html).
+You can use any rubber band as long you feel comfortable with it, we used the most popular around here, [the money rubber band](https://www.aliexpress.com/i/32900926065.html).+
 
 <img src="/images/rubberbands.jpg" alt="rubber band"
 	title="step 1" width="500" />
